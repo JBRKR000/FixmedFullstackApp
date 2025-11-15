@@ -5,7 +5,6 @@ A comprehensive Spring Boot-based backend application for a medical platform tha
 ## 📋 Table of Contents
 
 - [Overview](#overview)
-- [Quick Start](#quick-start)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Prerequisites](#prerequisites)
@@ -22,21 +21,6 @@ A comprehensive Spring Boot-based backend application for a medical platform tha
 
 ---
 
-## 🚀 Quick Start
-
-**For Development Setup Instructions:**
-
-👉 **[SETUP.md](./SETUP.md)** - Complete setup guide for developers
-
-**For Security Policies and Best Practices:**
-
-🔒 **[SECURITY.md](./SECURITY.md)** - Security policies and guidelines
-
-**Preparing for Production/GitHub:**
-
-📋 **[GITHUB_PUBLICATION_CHECKLIST.md](./GITHUB_PUBLICATION_CHECKLIST.md)** - Pre-publication checklist
-
----
 
 ## 🎯 Overview
 
